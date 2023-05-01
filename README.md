@@ -6,3 +6,4 @@ The remaining figures (Figure 5, Extended Data Figure 8, and Extended Data Figur
 
 We have also made available our OnenessTwoness random forest classifier, which predicts whether a tumor sample is HR-proficient, BRCA1-deficient, and BRCA2-deficient.
 This is saved in the file `./models/stash.retrained.model.rds`.
+We provided the code for training the model and an example of the input data for making predictions in the notebook `./notebooks/oneness_twoness_training_and_examples.ipynb`.
